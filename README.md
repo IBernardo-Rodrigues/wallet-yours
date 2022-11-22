@@ -37,6 +37,5 @@
     <li>Logout of page!</li>
   </ul>
 
-<button style="display:block;margin:auto;">
-  <a href="http://walletyours.infinityfreeapp.com" style="color:#000;">Try it!</a>
-</button>
+
+<a href="http://walletyours.infinityfreeapp.com" align="center">Try it!</a>
