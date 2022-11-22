@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+.graph {
+  background-color: var(--main-color);
+}
+
+.btn-add-money, .btn-historic, .gaph-select {
+  background-color: var(--secondary-color);
+}
+
+.graph-select {
+  width: 40%;
+  background-color: var(--secondary-color);
+  box-shadow: 0 0 0 #000 !important;
+  border: none;
+}
+
+option {
+  border-radius: 10px;
+}
+
+.cards {
+  margin: -2em 0;
+}
+
+.card {
+  background-color: #fff;
+}
+
+.col-12 {
+  width: 90%;
+}
+
+p {
+  color: #47525E;
+}
+@charset "UTF-8";
+
+.graph {
+  background-color: var(--main-color);
+}
+
+.btn-add-money, .btn-historic, .gaph-select {
+  background-color: var(--secondary-color);
+}
+
+.graph-select {
+  width: 40%;
+  background-color: var(--secondary-color);
+  box-shadow: 0 0 0 #000 !important;
+  border: none;
+}
+
+option {
+  border-radius: 10px;
+}
+
+.cards {
+  margin: -2em 0;
+}
+
+.card {
+  background-color: #fff;
+}
+
+.col-12 {
+  width: 90%;
+}
+
+p {
+  color: #47525E;
+}

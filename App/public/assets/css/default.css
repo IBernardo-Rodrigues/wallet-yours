@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --main-color: #06283D;
+  --secondary-color: #256D85;
+  /* FONTS */
+  --main-font: 'Poppins', sans-serif;
+}
+
+* {
+  font-family: var(--main-font);
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  grid-template-rows:
+  60px
+  auto
+  50px;
+  background-color: #F8F8F8;
+}
+
+header {
+  background-color: #06283D;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.icon-success, .icon-error {
+  width: 200px;
+}
+
+footer {
+  background-color: #fff;
+}
+
+footer > * {
+  margin: 0;
+}
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --main-color: #06283D;
+  --secondary-color: #256D85;
+  /* FONTS */
+  --main-font: 'Poppins', sans-serif;
+}
+
+* {
+  font-family: var(--main-font);
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  grid-template-rows:
+  60px
+  auto
+  50px;
+  background-color: #F8F8F8;
+}
+
+header {
+  background-color: #06283D;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.icon-success, .icon-error {
+  width: 200px;
+}
+
+footer {
+  background-color: #fff;
+}
+
+footer > * {
+  margin: 0;
+}
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --main-color: #06283D;
+  --secondary-color: #256D85;
+  /* FONTS */
+  --main-font: 'Poppins', sans-serif;
+}
+
+* {
+  font-family: var(--main-font);
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  grid-template-rows:
+  60px
+  auto
+  50px;
+  background-color: #F8F8F8;
+}
+
+header {
+  background-color: #06283D;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.icon-success, .icon-error {
+  width: 200px;
+}
+
+footer {
+  background-color: #fff;
+}
+
+footer > * {
+  margin: 0;
+}

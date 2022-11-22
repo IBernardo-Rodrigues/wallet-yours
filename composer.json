@@ -1,0 +1,26 @@
+{
+
+  "description": "Um projeto para o usuário fazer controle de suas finançass",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [{
+    "name": "Bernardo Rodrigues",
+    "email": "bernardorodrigues301@gmail.com",
+    "role": "Developer",
+    "homepage": "http://localhost/wallet-yours/"
+  }],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    },
+    "files": [
+      "App/config.php"
+    ]
+  },
+  "require": {
+    "firebase/php-jwt": "^6.3"
+  }
+}
