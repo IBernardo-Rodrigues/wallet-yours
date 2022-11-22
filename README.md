@@ -38,5 +38,5 @@
     <li>
       See his name, his email and all amount of money in his account!
     </li>
-    <li>Logout of page!</li>
+    <li>Logout of website!</li>
   </ul>
