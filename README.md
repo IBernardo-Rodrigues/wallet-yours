@@ -5,6 +5,10 @@
 ![walletyours1](https://user-images.githubusercontent.com/85764820/203411821-992e8df5-38df-4d1f-93a4-1975024888ea.PNG)
 ![walletyours2](https://user-images.githubusercontent.com/85764820/203412067-b48ca0fb-626a-449c-8d75-bb5076497806.PNG)
 
+<p align="center">
+  <a href="http://walletyours.infinityfreeapp.com">Try it!</a>
+</p>
+
 <h2>Features :bookmark_tabs:</h2>
   <h4>On the home page, there're those features:</h4>
   <ul>
@@ -36,6 +40,3 @@
     </li>
     <li>Logout of page!</li>
   </ul>
-
-
-<a href="http://walletyours.infinityfreeapp.com" align="center">Try it!</a>
