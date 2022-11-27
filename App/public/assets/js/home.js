@@ -158,11 +158,11 @@ function fillGraph(selectedGraph, response) {
 
       if (selectedGraph == 0) {
         if (currentTransaction.price <= 0) {
-          data.datasets[0].data[currentWeekDay] += (currentTransaction.price)*-1;
+          data.datasets[0].data[currentWeekDay] += Number(currentTransaction.price)*-1;
         }
       } else {
         if (currentTransaction.price >= 0) {
-          data.datasets[0].data[currentWeekDay] += (currentTransaction.price);
+          data.datasets[0].data[currentWeekDay] += Number(currentTransaction.price);
         }
       }
     });
@@ -212,13 +212,13 @@ function appInit(selectedGraph) {
     .then( value => {
       const response = JSON.parse(value);
       const transactions = response.data;
-      
-      
+
+
         fillGraph(selectedGraph, transactions);
         fillCards(transactions);
         return;
-      
-      
+
+
     });
   });
 }
